@@ -1,5 +1,5 @@
 {
-	"name": "@sveltejs/adapter-cloudflare",
+	"name": "justin-adapter-cloudflare",
 	"version": "7.0.3",
 	"description": "Adapter for building SvelteKit applications on Cloudflare Pages with Workers integration",
 	"keywords": [
