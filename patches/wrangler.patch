@@ -1,0 +1,13 @@
+diff --git a/package.json b/package.json
+index ba21ad380439f05b99f8ea6a0a3c86774f8d49ed..c2db16ac9cd737ddd8870e0f7165a02fc6c9e229 100644
+--- a/package.json
++++ b/package.json
+@@ -50,7 +50,7 @@
+     "config-schema.json"
+   ],
+   "dependencies": {
+-    "@cloudflare/unenv-preset": "2.3.0",
++    "@cloudflare/unenv-preset": "2.3.2",
+     "blake3-wasm": "2.1.5",
+     "esbuild": "0.24.2",
+     "path-to-regexp": "6.3.0",
